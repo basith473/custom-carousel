@@ -3,3 +3,5 @@ This is test file
 added this in the update
 
 Updated again to check only rebase
+
+Updated in test 2 to rebase in test 1
